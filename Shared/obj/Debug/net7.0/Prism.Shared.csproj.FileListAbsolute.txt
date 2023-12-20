@@ -1,0 +1,11 @@
+/Users/grantwatson/Desktop/Development/CSharp/Prism/Shared/bin/Debug/net7.0/Prism.Shared.deps.json
+/Users/grantwatson/Desktop/Development/CSharp/Prism/Shared/bin/Debug/net7.0/Prism.Shared.dll
+/Users/grantwatson/Desktop/Development/CSharp/Prism/Shared/bin/Debug/net7.0/Prism.Shared.pdb
+/Users/grantwatson/Desktop/Development/CSharp/Prism/Shared/obj/Debug/net7.0/Prism.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grantwatson/Desktop/Development/CSharp/Prism/Shared/obj/Debug/net7.0/Prism.Shared.AssemblyInfoInputs.cache
+/Users/grantwatson/Desktop/Development/CSharp/Prism/Shared/obj/Debug/net7.0/Prism.Shared.AssemblyInfo.cs
+/Users/grantwatson/Desktop/Development/CSharp/Prism/Shared/obj/Debug/net7.0/Prism.Shared.csproj.CoreCompileInputs.cache
+/Users/grantwatson/Desktop/Development/CSharp/Prism/Shared/obj/Debug/net7.0/Prism.Shared.dll
+/Users/grantwatson/Desktop/Development/CSharp/Prism/Shared/obj/Debug/net7.0/refint/Prism.Shared.dll
+/Users/grantwatson/Desktop/Development/CSharp/Prism/Shared/obj/Debug/net7.0/Prism.Shared.pdb
+/Users/grantwatson/Desktop/Development/CSharp/Prism/Shared/obj/Debug/net7.0/ref/Prism.Shared.dll
